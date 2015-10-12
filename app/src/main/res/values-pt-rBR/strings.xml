@@ -8,6 +8,7 @@
     <string name="hint_email">E-mail</string>
     <string name="hint_password">Senha</string>
     <string name="btn_sign_up">Entrar</string>
+    <string name="btn_register">Cadastre-se</string>
 
     <string name="err_msg_name">Digite seu nome completo</string>
     <string name="err_msg_email">Digite um endereço de e-mail válido</string>
